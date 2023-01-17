@@ -2,8 +2,9 @@
 Edunex [44705](https://edunex.itb.ac.id/courses/44705/preview), FI4002 Simulation and Modelling of Physical Systems, Class 01, Academic Year 2022, Semester 2.
 
 
-## tokens
-+ `PC0325` expires on 20 Jan 2023 0938 for [44705](https://edunex.itb.ac.id/courses/44705/preview) in [Edunex](https://edunex.itb.ac.id/edunex-landing).
+## information
++ token `PC0325` expires on 20 Jan 2023 0938 for [44705](https://edunex.itb.ac.id/courses/44705/preview) in [Edunex](https://edunex.itb.ac.id/edunex-landing).
++ [notes](note/README.md) of this course.
 
 
 ## syllabus
@@ -21,12 +22,6 @@ Edunex [44705](https://edunex.itb.ac.id/courses/44705/preview), FI4002 Simulatio
 + Knowledge about random number-based and particle-based model of physical systems.
 + Knowledge and ability to implement various methods in artificial intelligence for some physical systems.
 + Ability to use and/or to develop methods and available codes or softwares in solving some physical problems. 
-
-
-## sections
-+ [note](note/README.md)
-+ [task](task/README.md)
-+ [todo](todo/README.md)
 
 
 ## references
