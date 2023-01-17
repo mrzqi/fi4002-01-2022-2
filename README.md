@@ -2,7 +2,7 @@
 Edunex [44705](https://edunex.itb.ac.id/courses/44705/preview), FI4002 Simulation and Modelling of Physical Systems, Class 01, Academic Year 2022, Semester 2.
 
 
-## information
+## info
 + token `PC0325` expires on 20 Jan 2023 0938 for [44705](https://edunex.itb.ac.id/courses/44705/preview) in [Edunex](https://edunex.itb.ac.id/edunex-landing).
 + [notes](note/README.md) of this course.
 
@@ -24,5 +24,5 @@ Edunex [44705](https://edunex.itb.ac.id/courses/44705/preview), FI4002 Simulatio
 + Ability to use and/or to develop methods and available codes or softwares in solving some physical problems. 
 
 
-## references
+## refs
 [program design](https://press.rebus.community/programmingfundamentals/chapter/program-design/), [graphical method](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/graphical-method).
