@@ -23,5 +23,13 @@ Edunex [44705](https://edunex.itb.ac.id/courses/44705/preview), FI4002 Simulatio
 + Ability to use and/or to develop methods and available codes or softwares in solving some physical problems. 
 
 
+## note
++ `17-jan` Introduction and graphical method.
+
+
+## task
++ `17-jan` - `24-jan` Create GitHub account and fork two repositories.
+
+
 ## references
 [program design](https://press.rebus.community/programmingfundamentals/chapter/program-design/), [graphical method](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/graphical-method).
