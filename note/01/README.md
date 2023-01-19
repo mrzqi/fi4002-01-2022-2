@@ -5,7 +5,7 @@ Notes between 16-20 January 2023 at [142516](https://edunex.itb.ac.id/courses/44
 
 ## 17-jan-23
 - Information
-  + Edunex at [62623](https://edunex.itb.ac.id/courses/44705/preview/142516/62623).
+  + Edunex at [62623](https://edunex.itb.ac.id/courses/44705/preview/142516/62623) and [63711](https://edunex.itb.ac.id/courses/44705/preview/142516/63711).
   + [Merging of class 01 and 02](20220117-5.jpg)
 - Materials
   + [Course introduction](20220117-0.jpeg)
