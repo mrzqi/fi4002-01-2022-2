@@ -20,8 +20,8 @@ Notes between 23-27 January 2023 at [148035](https://edunex.itb.ac.id/courses/44
   + [test_data_6](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/linear_regression/test_data_6.ipynb)
   + [comparison_6_data](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/linear_regression/comparison_6_data.ipynb)
 - Task
-  + 01 [Create GitHub account and fork two repositories](https://github.com/dudung/fi4002-01-2022-2/issues/1)
-  + Listed on Issue 1
+  + 02
+  + Listed on Issue 2
   <!--
     1. https://github.com/mrzqi/
     2. https://github.com/ariawahyuw
