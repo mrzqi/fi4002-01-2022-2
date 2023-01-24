@@ -8,7 +8,12 @@ Notes between 23-27 January 2023 at [148035](https://edunex.itb.ac.id/courses/44
     - 9225 at 1100-1240 for Tuesday (24 Jan)
     - 9316 at 1100-1150 for Thursday (26 Jan)
 - Materials
-  + 
+  + [Introduction](20220124-0.jpeg)
+  + [Error: Absolute or square value](20220124-1.jpeg)
+  + [Linear equations of $c_0$ and $c_1$](20220124-2.jpeg)
+  + [Formula for $c_0$, $c_1$, $r$, $R^2$](20220124-3.jpeg)
+  + [Illustration of of $R^2$ and $r$](20220124-4.jpeg)
+  + [List, for, choice of symbols](20220124-5.jpeg)
 - Codes
   + [formula](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/linear_regression/formula.ipynb)
   + [functions](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/linear_regression/functions.ipynb)
