@@ -20,7 +20,7 @@ Notes between 23-27 January 2023 at [148035](https://edunex.itb.ac.id/courses/44
   + [Linera interpolation for $n$ data](20230126-3.jpeg)
   + [Lagrange polynomial interpolation](20230126-4.jpeg)
   + [Lagrange polynomial interpolation (formula & illustration)](20230126-5.jpeg)
-- Codes
+- Codes linear regression
   + [formula](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/linear_regression/formula.ipynb)
   + [functions](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/linear_regression/functions.ipynb)
   + [test_data_1](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/linear_regression/test_data_1.ipynb)
@@ -30,6 +30,15 @@ Notes between 23-27 January 2023 at [148035](https://edunex.itb.ac.id/courses/44
   + [test_data_5](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/linear_regression/test_data_5.ipynb)
   + [test_data_6](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/linear_regression/test_data_6.ipynb)
   + [comparison_6_data](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/linear_regression/comparison_6_data.ipynb)
+- Codes for interpolation
+  + [linear_interpolation](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/interpolation/linear_interpolation.ipynb)
+  + [linearint](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/interpolation/linearint.ipynb)
+  + [lin_test_data](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/interpolation/lin_test_data.ipynb)
+  + [lagrange_interpolating_polynomial](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/interpolation/lagrange_interpolating_polynomial.ipynb)
+  + [lagipoly](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/interpolation/lagipoly.ipynb)
+  + [lip_test_data](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/interpolation/lip_test_data.ipynb)
+  + [lin_lip_comparison](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/interpolation/lin_lip_comparison.ipynb)
+  + [lin_lip_fill_between](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/interpolation/lin_lip_fill_between.ipynb)
 - Task
   + 02
   + Listed on Issue 2
