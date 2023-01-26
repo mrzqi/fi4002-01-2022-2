@@ -14,7 +14,7 @@ Notes between 23-27 January 2023 at [148035](https://edunex.itb.ac.id/courses/44
   + [Formula for $c_0$, $c_1$, $r$, $R^2$](20220124-3.jpeg)
   + [Illustration of of $R^2$ and $r$](20220124-4.jpeg)
   + [List, for, choice of symbols](20220124-5.jpeg)
-- Codes
+- Codes linear regression
   + [formula](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/linear_regression/formula.ipynb)
   + [functions](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/linear_regression/functions.ipynb)
   + [test_data_1](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/linear_regression/test_data_1.ipynb)
@@ -24,6 +24,15 @@ Notes between 23-27 January 2023 at [148035](https://edunex.itb.ac.id/courses/44
   + [test_data_5](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/linear_regression/test_data_5.ipynb)
   + [test_data_6](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/linear_regression/test_data_6.ipynb)
   + [comparison_6_data](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/curve_fitting/linear_regression/comparison_6_data.ipynb)
+ - Codes for interpolation
+  + [linear_interpolation]()
+  + [linearint]()
+  + [lin_test_data]()
+  + [lagrange_interpolating_polynomial]()
+  + [lagipoly]()
+  + [lip_test_data]()
+  + [lin_lip_comparison]()
+  + [lin_lip_fill_between]()
 - Task
   + 02
   + Listed on Issue 2
