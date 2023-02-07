@@ -8,3 +8,4 @@ Notes between 6 10 February 2023.
   + ..
 - Codes
   + [gauss_elimination_illustration](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/linear_equations/gauss_elimination_illustration.ipynb)
+  + [cramer_rule](https://github.com/dudung/py-jupyter-nb/blob/main/src/nummeth/linear_equations/cramer_rule.ipynb)
