@@ -17,3 +17,10 @@ Notes between 13 - 17 February 2023.
 - Codes
   + [ordinary_differential_equation](https://github.com/dudung/py-jupyter-nb/blob/main/src/apply/nummeth/ode/ordinary_differential_equation.ipynb)
   + [euler_algorithm](https://github.com/dudung/py-jupyter-nb/blob/main/src/apply/nummeth/ode/ivp/euler_algorithm.ipynb)
+  + [euler_circular_motion_xy](https://github.com/dudung/py-jupyter-nb/blob/main/src/apply/nummeth/ode/ivp/euler_circular_motion_xy.ipynb)
+  + [eulercircmotxy](https://github.com/dudung/py-jupyter-nb/blob/main/src/apply/nummeth/ode/ivp/eulercircmotxy.ipynb)
+  + [eulercircmotxy_use]((https://github.com/dudung/py-jupyter-nb/blob/main/src/apply/nummeth/ode/ivp/eulercircmotxy_use.ipynb)
+  + [velocity_verlet_algorithm](https://github.com/dudung/py-jupyter-nb/blob/main/src/apply/nummeth/ode/ivp/velocity_verlet_algorithm.ipynb)
+  + [velocity_verlet_circular_motion_xy](https://github.com/dudung/py-jupyter-nb/blob/main/src/apply/nummeth/ode/ivp/velocity_verlet_circular_motion_xy.ipynb)
+  + [runge_kutta_method](https://github.com/dudung/py-jupyter-nb/blob/main/src/apply/nummeth/ode/ivp/runge_kutta_method.ipynb)
+  + [runge_kutta_4_circular_motion_xy](https://github.com/dudung/py-jupyter-nb/blob/main/src/apply/nummeth/ode/ivp/runge_kutta_4_circular_motion_xy.ipynb)
