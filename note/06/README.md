@@ -17,3 +17,5 @@ Notes between 20 - 27 February 2023.
 - Codes
   + [partial_differential_equation](https://github.com/dudung/py-jupyter-nb/blob/main/src/apply/nummeth/pde/partial_differential_equation.ipynb)
   + [boundary_conditions](https://github.com/dudung/py-jupyter-nb/blob/main/src/apply/nummeth/pde/boundary_conditions.ipynb)
+  + [laplace_heat_square_plate](https://github.com/dudung/py-jupyter-nb/blob/main/src/apply/nummeth/pde/laplace_heat_square_plate.ipynb)
+  + [laplace_heat_square_plate_diff_iter](https://github.com/dudung/py-jupyter-nb/blob/main/src/apply/nummeth/pde/laplace_heat_square_plate_diff_iter.ipynb)
