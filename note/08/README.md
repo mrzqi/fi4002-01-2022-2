@@ -13,4 +13,5 @@ Notes between 6 - 10 March 2023.
 - Diskusi
   + [Penjelasan](20230307-0.png)
   + [Pertanyaan](20230307-1.png)
+  + [Proses](20230307-2.png)
   
