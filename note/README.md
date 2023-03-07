@@ -8,4 +8,4 @@ Some notes for this course.
 + `13 Feb` - `17 Feb` &bull; [Note 05](05/README.md)
 + `20 Feb` - `24 Feb` &bull; [Note 06](06/README.md)
 + `27 Feb` - `03 Mar` &bull; [Note 07](07/README.md)
-+ `06 Mar` - `10 Mar` &bull; [Note 07](08/README.md)
++ `06 Mar` - `10 Mar` &bull; [Note 08](08/README.md)
