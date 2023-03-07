@@ -10,3 +10,7 @@ Notes between 6 - 10 March 2023.
   + [linreg_interpolation](https://github.com/dudung/py-jupyter-nb/blob/main/src/stepin/exercises/05/linreg_interpolation.ipynb)
   + [flowchart_root_finding](https://github.com/dudung/py-jupyter-nb/blob/main/src/stepin/exercises/05/flowchart_root_finding.ipynb)
   + [integ_ode](https://github.com/dudung/py-jupyter-nb/blob/main/src/stepin/exercises/05/integ_ode.ipynb)
+- Diskusi
+  + [Penjelasan](20230307-0.png)
+  + [Pertanyaan](20230307-1.png)
+  
