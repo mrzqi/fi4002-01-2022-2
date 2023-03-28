@@ -4,7 +4,12 @@ Notes between 20 - 24 March 2023.
 - Information
   + Edunex at [162523](https://edunex.itb.ac.id/courses/44705/preview/162523)
 - Materials
-  + ..
+  + [Transformasi Fourier](20230321-0.jpeg)
+  + [Ortoginalitas fungsi sin dan cos 1](20230321-1.jpeg)
+  + [Ortoginalitas fungsi sin dan cos 2](20230321-2.jpeg)
+  + [Deret Fourier](20230321-3.jpeg)
+  + [Transformasi Fourier diskrit 1](20230321-4.jpeg)
+  + [Transformasi Fourier diskrit 2](20230321-5.jpeg)
 - Codes for 1D-FFT
   + [linspace](https://github.com/dudung/py-jupyter-nb/blob/main/src/apply/fft/audio/linspace.ipynb)
   + [generator](https://github.com/dudung/py-jupyter-nb/blob/main/src/apply/fft/audio/generator.ipynb)
