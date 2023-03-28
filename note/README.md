@@ -10,3 +10,5 @@ Some notes for this course.
 + `27 Feb` - `03 Mar` &bull; [Note 07](07/README.md)
 + `06 Mar` - `10 Mar` &bull; [Note 08](08/README.md) &bull; [Exam 01]()
 + `13 Mar` - `17 Mar` &bull; [Note 09](09/README.md)
++ `20 Mar` - `24 Mar` &bull; [Note 10](10/README.md)
++ `27 Mar` - `31 Mar` &bull; [Note 11](11/README.md)
