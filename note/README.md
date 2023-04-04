@@ -12,3 +12,4 @@ Some notes for this course.
 + `13 Mar` - `17 Mar` &bull; [Note 09](09/README.md)
 + `20 Mar` - `24 Mar` &bull; [Note 10](10/README.md)
 + `27 Mar` - `31 Mar` &bull; [Note 11](11/README.md)
++ `03 Apr` - `07 Apr` &bull; [Note 12](12/README.md)
