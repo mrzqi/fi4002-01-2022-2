@@ -3,7 +3,7 @@ Notes between 24 - 28 Apr 2023.
 
 - Information
   + Edunex at [167270](https://edunex.itb.ac.id/courses/44705/preview/167270)
-- Network
+- Network (14)
   + [layers_21](https://github.com/dudung/python/blob/main/src/stepin/intermediate/ann/layers_21.md)
   + [layers_21_matrix_or](https://github.com/dudung/python/blob/main/src/stepin/intermediate/ann/layers_21_matrix_or.py)
   + [layers_21_matrix_and](https://github.com/dudung/python/blob/main/src/stepin/intermediate/ann/layers_21_matrix_and.py)
@@ -18,3 +18,17 @@ Notes between 24 - 28 Apr 2023.
   + [net2321_dataset1_ff_err](https://github.com/dudung/python/blob/main/src/stepin/intermediate/ann/net2321_dataset1_ff_err.py)
   + [net2321_dataset1_ff_wchg](https://github.com/dudung/python/blob/main/src/stepin/intermediate/ann/net2321_dataset1_ff_wchg.py)
   + [net2321_dataset1_wchg_iter](https://github.com/dudung/python/blob/main/src/stepin/intermediate/ann/net2321_dataset1_wchg_iter.py)
+- network (13)
+  + [data](https://github.com/dudung/python/blob/main/src/stepin/intermediate/network/data.py)
+  + [actfunc](https://github.com/dudung/python/blob/main/src/stepin/intermediate/network/actfunc.py)
+  + [mtxlib](https://github.com/dudung/python/blob/main/src/stepin/intermediate/network/mtxlib.py)
+  + [network](https://github.com/dudung/python/blob/main/src/stepin/intermediate/network/network.py)
+  + [net_instance](https://github.com/dudung/python/blob/main/src/stepin/intermediate/network/net_instance.py)
+  + [net_matrix](https://github.com/dudung/python/blob/main/src/stepin/intermediate/network/net_matrix.py)
+  + [net_data](https://github.com/dudung/python/blob/main/src/stepin/intermediate/network/net_data.py)
+  + [net_feedforward](https://github.com/dudung/python/blob/main/src/stepin/intermediate/network/net_feedforward.py)
+  + [net_mse](https://github.com/dudung/python/blob/main/src/stepin/intermediate/network/net_mse.py)
+  + [hadamard_product](https://github.com/dudung/python/blob/main/src/stepin/intermediate/network/hadamard_product.py)
+  + [architecture_ff](https://github.com/dudung/python/blob/main/src/stepin/intermediate/network/architecture_ff.md)
+  + [error_propagation](https://github.com/dudung/python/blob/main/src/stepin/intermediate/network/error_propagation.md)
+  + [err_propag_impl_plan](https://github.com/dudung/python/blob/main/src/stepin/intermediate/network/err_propag_impl_plan.md)
