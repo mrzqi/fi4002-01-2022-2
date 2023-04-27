@@ -4,7 +4,7 @@ Notes between 24 - 28 Apr 2023.
 - Information
   + Edunex at [167270](https://edunex.itb.ac.id/courses/44705/preview/167270)
   + Zoom [91629686224](https://itb-ac-id.zoom.us/j/91629686224?pwd=T1dkYkordHVNZHA3UDNrbXBQbTNXQT09)
-- Network (14)
+- ann (14)
   + [layers_21](https://github.com/dudung/python/blob/main/src/stepin/intermediate/ann/layers_21.md)
   + [layers_21_matrix_or](https://github.com/dudung/python/blob/main/src/stepin/intermediate/ann/layers_21_matrix_or.py)
   + [layers_21_matrix_and](https://github.com/dudung/python/blob/main/src/stepin/intermediate/ann/layers_21_matrix_and.py)
