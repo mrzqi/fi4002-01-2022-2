@@ -33,3 +33,4 @@ Notes between 24 - 28 Apr 2023.
   + [architecture_ff](https://github.com/dudung/python/blob/main/src/stepin/intermediate/network/architecture_ff.md)
   + [error_propagation](https://github.com/dudung/python/blob/main/src/stepin/intermediate/network/error_propagation.md)
   + [err_propag_impl_plan](https://github.com/dudung/python/blob/main/src/stepin/intermediate/network/err_propag_impl_plan.md)
+- Video [gpDo3pFuBJc](https://youtu.be/gpDo3pFuBJc)
