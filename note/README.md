@@ -16,3 +16,4 @@ Some notes for this course.
 + `10 Apr` - `14 Apr` &bull; [Note 13](13/README.md)
 + `17 Apr` - `21 Apr` &bull; [Note 14](14/README.md)
 + `24 Apr` - `28 Apr` &bull; [Note 15](15/README.md)
++ `01 May` - `05 May` &bull; [Note 16](16/README.md)
