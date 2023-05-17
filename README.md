@@ -5,6 +5,7 @@ Edunex [44705](https://edunex.itb.ac.id/courses/44705/preview), FI4002 Simulatio
 ## info
 + token `PC0325` expires on 20 Jan 2023 0938 for [44705](https://edunex.itb.ac.id/courses/44705/preview) in [Edunex](https://edunex.itb.ac.id/edunex-landing).
 + [notes](note/README.md) of this course.
++ For grader assistant please register [here](https://fi.itb.ac.id/prosedur-pendaftaran-asisten-prodi-fisika-fmipa-itb-semester-2-ta-2022-2023/).
 
 
 ## syllabus
